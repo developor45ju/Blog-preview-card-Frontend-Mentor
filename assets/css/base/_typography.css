@@ -1,0 +1,23 @@
+@import url('../utils/_variables.css');
+
+@font-face {
+    font-family: var(--font-family-name);
+    src: var(--font-family-import-ExtraBold);
+    font-weight: var(--font-weight-ExtraBold);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: var(--font-family-name);
+    src: var(--font-family-import-Normal);
+    font-weight: var(--font-weight-Normal);
+    font-style: normal;
+}
+
+body {
+    font-family: var(--font-family-name);
+    font-weight: var(--font-family-import-Normal);
+    font-size: 14px;
+    color: var(--text-description);
+    background-color: var(--background-body);
+}

@@ -1,0 +1,15 @@
+:root {
+    --background-card: #FFFFFF;
+    --background-body: #F4D04E;
+
+    --text-title: #111111;
+    --text-description: #6B6B6B;
+
+    --font-family-name: 'Figtree';
+    
+    --font-family-import-ExtraBold: url('./assets/fonts/Figtree-ExtraBold.ttf') format('truetype');
+    --font-family-import-Medium: url('./assets/fonts/Figtree-Medium.ttf') format('truetype');
+
+    --font-weight-ExtraBold: 800;
+    --font-weight-Normal: 500;
+}
